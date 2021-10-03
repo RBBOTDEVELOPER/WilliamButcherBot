@@ -105,11 +105,11 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="Commands ❓", callback_data="bot_commands"
+                text="Buy Custom Bot", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/thehamkercat/WilliamButcherBot",
+                url="https://t.me/TheBenGenral",
             ),
         ],
         [
@@ -118,7 +118,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="Support 👨", url="http://t.me/WBBSupport"
+                text="Support 👨", url="https://t.me/PythonTelegramBot_Chat"
             ),
         ],
         [
@@ -145,8 +145,8 @@ keyboard = InlineKeyboardMarkup(
                         url=f"t.me/{BOT_USERNAME}?start=help",
                     ),
                     InlineKeyboardButton(
-                        text="Repo 🛠",
-                        url="https://github.com/thehamkercat/WilliamButcherBot",
+                        text="Buy Code",
+                        url="https://t.me/TheBenGenral",
                     ),
                 ],
                 [
@@ -155,7 +155,7 @@ keyboard = InlineKeyboardMarkup(
                         callback_data="stats_callback",
                     ),
                     InlineKeyboardButton(
-                        text="Support 👨", url="t.me/WBBSupport"
+                        text="Support 👨", url="https://t.me/PythonTelegramBot_Chat"
                     ),
                 ],
             ]
