@@ -1,4 +1,4 @@
-""" WRITTEN BY @pokurt, https://github.com/pokurt"""
+""" WRITTEN BY @TheBenGenral"""
 
 import sys
 import traceback
