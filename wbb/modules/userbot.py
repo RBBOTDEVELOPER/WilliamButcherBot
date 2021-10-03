@@ -1,8 +1,6 @@
 """
-    CREDITS:
-        MOST OF THE CODE IN THIS FILE IS WRITTEN BY @Pokurt.
-        SOURCE:
-            https://github.com/pokurt/Nana-Remix/blob/master/nana/plugins/devs.py
+    CREDITS: @TheBenGenral
+       
 """
 
 import os
